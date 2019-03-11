@@ -1,7 +1,7 @@
 # Hybrid reinforcement learning with expert state sequences
 
 ## About this repository
-This repository contains an implementation of the paper [Hybrid Reinforcement Learning with Expert State Sequences](https://papers.nips.cc/paper/7348-dialog-based-interactive-image-retrieval.pdf). The implementation is built directly on top of [PyTorch implementation of Advantage Actor Critic (A2C)](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr). 
+This repository contains an implementation of the paper [Hybrid Reinforcement Learning with Expert State Sequences](https://aaai.org/Conferences/AAAI-19/wp-content/uploads/2018/11/AAAI-19_Accepted_Papers.pdf). The implementation is built directly on top of [PyTorch implementation of Advantage Actor Critic (A2C)](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr). 
 
 
 ## Dependencies
